@@ -3,8 +3,6 @@
           background-color: #deeefa;
           color: #1a2b49;
           overflow:auto;
-          max-width: 100%;
-          height: auto;
         }
 
         div {
@@ -16,8 +14,7 @@
           padding-right: 45px;
           overflow: auto;
           max-width: 100%;
-          height: auto;
-          overflow: auto;      
+          height: auto;      
 
         }
 
@@ -41,8 +38,6 @@
 
         .lista-imagem {
           text-align: center;
-          max-width: 100%;
-          height:auto;
         }
 
         .lista-estilo {
@@ -57,8 +52,7 @@
           padding: 2px 2px 2px 2px;
           margin: 35px 130px 10px 10px;
           font-size: 20px;
-          max-width: 100%;
-          height: auto;
+          overflow: auto;      
                 
         }
 
@@ -79,16 +73,11 @@
           padding: 10px;
           border: 2px solid;
           box-shadow: 8px 8px;
-          max-width: 100%;
-          height: auto;
-          overflow: auto;
         }
 
         #bloco {
           text-align: center;
           border-bottom: 0px;
-                 max-width: 100%;
-          height:auto;
         }
 
         .tabela {
