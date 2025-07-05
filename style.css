@@ -38,6 +38,8 @@
 
         .lista-imagem {
           text-align: center;
+          max-width: 100%;
+          height:auto;
         }
 
         .lista-estilo {
@@ -76,6 +78,8 @@
         #bloco {
           text-align: center;
           border-bottom: 0px;
+                 max-width: 100%;
+          height:auto;
         }
 
         .tabela {
