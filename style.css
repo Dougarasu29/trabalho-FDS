@@ -168,3 +168,31 @@
           box-shadow: 0px 4px 4px 1px #7aa1c2;
           border: 1px outset #2a3d66;
         }
+
+@media (max-width: 768px) {
+
+          .imagem,
+          .lista-estilo,
+          .tabela {
+            display: block;
+            width: 100%;
+            margin: 10px auto;
+          }
+
+          .imagem {
+            max-width: 100%;
+            height: auto;
+          }
+
+          table {
+            width: 100%;
+            display: block;
+            overflow-x: auto;
+          }
+
+          th,
+          td {
+            width: auto;
+            font-size: 14px;
+          }
+        }
