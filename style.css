@@ -14,7 +14,8 @@
           padding-right: 45px;
           overflow: auto;
           max-width: 100%;
-          height: auto;      
+          height: auto;
+          overflow: auto;      
 
         }
 
