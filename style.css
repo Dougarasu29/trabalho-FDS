@@ -3,6 +3,8 @@
           background-color: #deeefa;
           color: #1a2b49;
           overflow:auto;
+                max-width: 100%;
+          height: auto;
         }
 
         div {
