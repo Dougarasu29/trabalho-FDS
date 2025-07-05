@@ -3,7 +3,7 @@
           background-color: #deeefa;
           color: #1a2b49;
           overflow:auto;
-                max-width: 100%;
+          max-width: 100%;
           height: auto;
         }
 
@@ -76,6 +76,8 @@
           padding: 10px;
           border: 2px solid;
           box-shadow: 8px 8px;
+          max-width: 100%;
+          height: auto;      
         }
 
         #bloco {
