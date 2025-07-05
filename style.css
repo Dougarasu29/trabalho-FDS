@@ -1,0 +1,170 @@
+        body {
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          background-color: #deeefa;
+          color: #1a2b49;
+        }
+
+        div {
+          background-color: #7aa1c2;
+          border: 30px solid #2a3d66;
+          margin-left: 45px;
+          padding-left: 45px;
+          margin-right: 45px;
+          padding-right: 45px;
+
+        }
+
+        #titulo {
+          color: #0189ff;
+          background: local;
+          text-align: center;
+          font-style: oblique;
+          border: 0px 30px 30px 0px outset #2a3d66;
+          padding: 15px;
+          display: inline-block;
+          vertical-align: middle;
+        }
+
+        p {
+          font-size: larger;
+          text-align: justify;
+          color: #1a2b49;
+          font-style: oblique;
+        }
+
+        .lista-imagem {
+          text-align: center;
+        }
+
+        .lista-estilo {
+          display: inline-block;
+          vertical-align: middle;
+          list-style-type: square;
+          list-style-position: inside;
+          font-style: oblique;
+          border: 4px outset #2a3d66;
+          background-color: #deeefa;
+          box-shadow: 8px 4px 4px 8px;
+          padding: 2px 2px 2px 2px;
+          margin: 35px 130px 10px 10px;
+          font-size: 20px;
+        }
+
+        .imagem {
+          border: 4px outset #2a3d66;
+          border-radius: 20px;
+          width: 360px;
+          display: inline-block;
+          vertical-align: middle;
+          margin: 55px 120px 100px 10px;
+          box-shadow: 10px 10px 15px 10px;
+
+        }
+
+        li {
+          text-align: right;
+          margin: 25px 25px 40px 40px;
+          padding: 10px;
+          border: 2px solid;
+          box-shadow: 8px 8px;
+        }
+
+        #bloco {
+          text-align: center;
+          border-bottom: 0px;
+        }
+
+        .tabela {
+          display: inline-block;
+          vertical-align: middle;
+          margin: 25px 0px;
+          padding: 10px;
+          border-spacing: 10px;
+
+        }
+
+        h3 {
+          font-style: oblique;
+          text-transform: capitalize;
+          text-decoration: underline;
+          margin: 20px 20px 2px;
+          text-align: left;
+
+        }
+
+        th {
+          font-style: oblique;
+          font-size: 17px;
+          border: 3px outset #2a3d66;
+          background-color: #1a2b49;
+          color: #7aa1c2;
+          padding: 9px;
+          border-radius: 20px;
+          box-shadow: 10px 14px 14px 1px;
+          height: 50px;
+        }
+
+        td {
+          font-style: oblique;
+          border: 4px outset #2a3d66;
+          vertical-align: middle;
+          background-color: #deeefa;
+          border-radius: 23px;
+          box-shadow: 10px 14px 14px 1px;
+          width: 110px;
+        }
+
+        .mudar-cor:hover {
+          color: #deeefa;
+          background-color: #2a3d66;
+          cursor: pointer;
+          transition: all 0.3s;
+        }
+
+        .estilo-imagem {
+          width: 390px;
+          height: 210px;
+          border-radius: 20px;
+          object-fit: cover;
+        }
+
+
+        .titulo-link {
+          margin: 15px 0px 20px 2px;
+
+        }
+
+        .link-cor {
+          text-align: center;
+          padding-bottom: 15px;
+
+        }
+
+        a {
+          font-size: 17px;
+        }
+
+        a:hover {
+          color: #1a2b49;
+          cursor: pointer;
+          transition: all 0.3s;
+        }
+
+        #meubotao {
+          background-color: #1a2b49;
+          color: #7aa1c2;
+          font-weight: bold;
+          text-transform: capitalize;
+          font-style: oblique;
+          border: 4px outset #2a3d66;
+          margin: 10px 0px 10px 0px;
+          padding: 15px 4px 15px 4px;
+          cursor: pointer;
+        }
+
+        #mensagem {
+          text-align: center;
+          font-style: oblique;
+          box-shadow: 0px 4px 4px 1px #7aa1c2;
+          border: 1px outset #2a3d66;
+        }
